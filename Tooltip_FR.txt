@@ -1,0 +1,4 @@
+Tooltip_FR = {
+ Tooltip_BookTitle_Aiming = "Visée",
+ Tooltip_BookTitle_Reloading = "Rechargement",
+}
